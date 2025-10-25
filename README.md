@@ -5,7 +5,7 @@
 https://u.easyeda.com/account/user/projects/index/detail?project=ef020a2c06734725b58e22c9f80fe3d6&folder=all&lang=en&state=1755192446179&listType=all&from=editor
 
 
-FEATURES:
-- Adjustable ADC referans voltage.
-- Type-C
-- Reset buton.
+FEATURES and DIFFERENCES:
+- Adjustable ADC referans voltage added.
+- Type-C instead of Micro-USB.
+- Reset buton added.
